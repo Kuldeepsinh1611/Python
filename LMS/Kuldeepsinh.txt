@@ -1,0 +1,20 @@
+ID : 1
+Title : The Lottery
+Author : Shirley Jackson
+Charge : 5.0
+------------------------------
+ID : 2
+Title : The Tell-Tale Heart
+Author : Edgar Allan Poe
+Charge : 10.0
+------------------------------
+ID : 1
+Title : The Lottery
+Author : Shirley Jackson
+Charge : 5.0
+------------------------------
+ID : 2
+Title : The Tell-Tale Heart
+Author : Edgar Allan Poe
+Charge : 100.0
+------------------------------
